@@ -55,6 +55,5 @@ GitHub Issues: Abrir un issue
 
 # 🔗 Enlaces Útiles
 Repositorio: https://github.com/pipQuasar
-Guía de Contribución
 
 ¡Gracias por usar FFpython! ¡Esperamos que esta biblioteca te ayude a aprender, enseñar y programar de manera más rápida y amigable!
