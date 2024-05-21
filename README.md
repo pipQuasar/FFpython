@@ -4,18 +4,16 @@ FFpython es una biblioteca diseñada para hacer que Python sea aún más simple 
 
 # 📥 Instalación
 Para instalar FFpython, simplemente usa pip:
-```
-bash
-Copiar código
+```bash
 pip install ffpython
 ```
 
 # 🚀 Cómo Empezar
 Una vez que hayas instalado FFpython, puedes comenzar a usarlo de inmediato. Aquí hay un ejemplo básico:
 
-python
-Copiar código
+```python
 import ffpython as ffp
+```
 
 # 📚 Documentación
 Funciones Disponibles:
