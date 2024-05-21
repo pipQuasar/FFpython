@@ -4,23 +4,19 @@ FFpython es una biblioteca diseñada para hacer que Python sea aún más simple 
 
 # 📥 Instalación
 Para instalar FFpython, simplemente usa pip:
-'''
+```
 bash
 Copiar código
 pip install ffpython
-'''
+```
+
 # 🚀 Cómo Empezar
 Una vez que hayas instalado FFpython, puedes comenzar a usarlo de inmediato. Aquí hay un ejemplo básico:
-'''
+
 python
 Copiar código
 import ffpython as ffp
-'''
-# Usar una función simple
-'''
-resultado = ffp.suma(2, 3)
-print("La suma es:", resultado)
-'''
+
 # 📚 Documentación
 Funciones Disponibles:
 Operaciones Matemáticas
@@ -31,22 +27,6 @@ Matrices
 Ordenamiento
 Estructuras
 
-Ejemplos de Uso:
-'''
-python
-Copiar código
-# Suma
-print(ff.suma(10, 5))  # Output: 15
-
-# Resta
-print(ff.resta(10, 5))  # Output: 5
-
-# Multiplicación
-print(ff.multiplicacion(10, 5))  # Output: 50
-
-# División
-print(ff.division(10, 5))  # Output: 2.0
-'''
 Leer la Documentación
 La documentación completa de FFpython está disponible en GitHub Pages.
 
