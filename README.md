@@ -25,8 +25,8 @@ Matrices
 Ordenamiento
 Estructuras
 
-Leer la Documentación
-La documentación completa de FFpython está disponible en GitHub Pages.
+Leer la Documentación:
+La documentación completa de FFpython está disponible en [GitHub Pages.](https://github.com/pipQuasar/FFpython/main/README.md)
 
 # 🌍 Contribuir
 FFpython es un proyecto de código abierto y agradecemos todas las contribuciones. Si deseas colaborar, sigue estos pasos:
@@ -45,13 +45,14 @@ Si te gusta FFpython y quieres apoyar su desarrollo, considera hacer una donaci�
 # 📞 Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros:
 
-Email: contacto@ffpython.org
-Twitter: @ffpython
+Email: mftoba@gmail.com
+Twitter: @FF_python_
 GitHub Issues: Abrir un issue
 
 
 # 🔗 Enlaces Útiles
-Documentación
-Repositorio en GitHub
+readme: https://github.com/pipQuasar/FFpython/main/README.md
+Repoditorio: https://github.com/pipQuasar
 Guía de Contribución
+
 ¡Gracias por usar FFpython! ¡Esperamos que esta biblioteca te ayude a aprender, enseñar y programar de manera más rápida y amigable!
