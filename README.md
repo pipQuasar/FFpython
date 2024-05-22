@@ -17,7 +17,7 @@ import ffpython as ffp
 
 # 📚 Documentación
 Funciones Disponibles:
-Operaciones Matemáticas
+Operaciones Matemáticas,
 Procedimientos
 
 Leer la Documentación:
