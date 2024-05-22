@@ -20,8 +20,7 @@ Funciones Disponibles:
 Operaciones Matemáticas,
 Procedimientos
 
-Leer la Documentación:
-La documentación completa de FFpython está disponible en [GitHub Pages.](https://github.com/pipQuasar/FFpython/main/README.md)
+La descripción de cada función está dentro de si mismo, solamente hace falta entrar a la función que quieras leer y ahi estará todo.
 
 # 🌍 Contribuir
 FFpython es un proyecto de código abierto y agradecemos todas las contribuciones. Si deseas colaborar, sigue estos pasos:
