@@ -1,6 +1,6 @@
 def multiplicar(*numeros):
       """
-      Multiplica la cantidad de numeros que quieras en secuencia. 1 x 2 x 3 x 4 x 5 x...
+      Multiplica la cantidad de numeros que quieras, ya sean 2 o más. 1 x 2 x 3 x 4 x 5 x...
       
       Args:
       - *numeros (float): Secuencia de números a multiplicar.

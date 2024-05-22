@@ -1,6 +1,6 @@
 def dividir(*numeros):
       """
-      Divide la cantidad de numeros que quieras en secuencia. 1 / 2 / 3 / 4 / 5 /...
+      Divide la cantidad de numeros que quieras, ya sean 2 o más. 1 / 2 / 3 / 4 / 5 /...
       
       Args:
       - *numeros (float): Secuencia de números a dividir.
