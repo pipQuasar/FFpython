@@ -11,7 +11,7 @@ def sumar(*numeros):
     Returns:
         float: Resultado de la suma.
     """
-    if not numeros:
+    if not numeros: # Si no se ingresa un número, no se puede operar nada.
       raise ValueError("Error! Se debe proporcionar al menos un numero...")
 
     return sum(numeros)

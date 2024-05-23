@@ -14,10 +14,10 @@ def potenciacion(numero):
           float: Resultado de la potenciacion.
       """
       print(f"Numero ingresado: {numero}")
-      if not numero:
+      if not numero:    # Si no se ingresa un número, no se puede operar nada.
         raise ValueError("Error! Se debe proporcionar al menos un numero...")
       exponente = int(input("Exponente: "))
-      if not numero:
+      if not exponente: # Si no se ingresa un exponente, no se puede operar nada.
         raise ValueError("Error! Se debe proporcionar al menos un numero...")
       
       return numero ** exponente

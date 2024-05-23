@@ -11,10 +11,10 @@ def dividir(*numeros):
       Returns:
           float: Resultado de la división.
       """
-      if len(numeros) == 0:
+      if len(numeros) == 0: # Si la cantidad de numeros ingresado es 0.
         raise ValueError("Se debe ingresar al menos un número para dividir.")
-      resultado = numeros[0]
-      for num in numeros[1:]:
+      resultado = numeros[0]  # Creamos e inicializamos la variable resultado con el valro del primer número ingresado.
+      for num in numeros[1:]: # Utilizamos un bucle a partir del segundo valor ingresado para realizar la operación.
         resultado /= num
       return resultado
       
