@@ -18,5 +18,5 @@ def valor_absoluto(numero):
       return resultado
 
 # Ejemplo de uso
-resultado = valor_absoluto(-7)
-print(resultado) # REsultado esperado: 7
+resultado = valor_absoluto(-8)
+print(resultado) # REsultado esperado: 8
