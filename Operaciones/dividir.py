@@ -20,7 +20,7 @@ def dividir(*numeros):
       
 # Ejemplo de uso
 try:
-    resultado = dividir(10,2,2)
+    resultado = dividir(10,2,2) # Se introducen los numeros que desées dividir
     print(resultado)  # Salida: 2.5
 except ValueError as err:
     print(err)

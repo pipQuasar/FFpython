@@ -21,7 +21,7 @@ def multiplicar(*numeros):
 
 # Ejemplo de uso
 try:
-    resultado = multiplicar(1,2,3,4,5)
+    resultado = multiplicar(1,2,3,4,5) # Se ingresan los numeros que desées multiplicar
     print(resultado)  # Salida: 120
 except ValueError as err:
     print(err)      
