@@ -21,43 +21,43 @@ Operaciones Matemáticas,
 Procedimientos
 
 <h3>Operaciones Matemáticas:</h3>
-Suma
-Resta
-Multiplicación
-División
-Potenciación (exponente)
-Raíz cuadrada 
-Raíz cúbica
-Logaritmo natural (ln)
-Logaritmo base 10 (log)
-Logaritmo base 2 (log2)
-Valor absoluto
-Redondeo
-Truncamiento
-Mínimo
-Máximo
-Factorial
-Funciones trigonométricas:
-Seno
-Coseno
-Tangente
-Arcoseno
-Arcocoseno
-Arcotangente
-Funciones hiperbólicas:
-Seno hiperbólico
-Coseno hiperbólico
-Tangente hiperbólica
-Arcoseno hiperbólico
-Arcocoseno hiperbólico
-Arcotangente hiperbólica
-Números complejos:
-Parte real e imaginaria
-Módulo
-Argumento
-Conjugado
-Sumatorias y productorias
-Derivadas e integrales (en aplicaciones más avanzadas)
+Suma"\n"
+Resta"\n"
+Multiplicación"\n"
+División"\n"
+Potenciación (exponente)"\n"
+Raíz cuadrada "\n"
+Raíz cúbica"\n"
+Logaritmo natural (ln)"\n"
+Logaritmo base 10 (log)"\n"
+Logaritmo base 2 (log2)"\n"
+Valor absoluto"\n"
+Redondeo"\n"
+Truncamiento"\n"
+Mínimo"\n"
+Máximo"\n"
+Factorial"\n"
+Funciones trigonométricas:"\n"
+Seno"\n"
+Coseno"\n"
+Tangente"\n"
+Arcoseno"\n"
+Arcocoseno"\n"
+Arcotangente"\n"
+Funciones hiperbólicas:"\n"
+Seno hiperbólico"\n"
+Coseno hiperbólico"\n"
+Tangente hiperbólica"\n"
+Arcoseno hiperbólico"\n"
+Arcocoseno hiperbólico"\n"
+Arcotangente hiperbólica"\n"
+Números complejos:"\n"
+Parte real e imaginaria"\n"
+Módulo"\n"
+Argumento"\n"
+Conjugado"\n"
+Sumatorias y productorias"\n"
+Derivadas e integrales (en aplicaciones más avanzadas)"\n"
 
 # 🌍 Contribuir
 FFpython es un proyecto de código abierto y agradecemos todas las contribuciones. Si deseas colaborar, sigue estos pasos:
