@@ -1,15 +1,15 @@
 def raiz_cuadrada(numero, tolerancia=1e-10):
     """
-    Utilizando el 'Mètodo Babilonìa o Herón'
-    1e-10 es una forma de notación científica que representa el número 
+    Utilizando el 'Mètodo Babilonìa o Herón'. Se calculará la raiz cuadrada del numero ingresado. 
+    1e-10 es una forma de notación científica que representa el número. 
     1 × 10 **−10, que es igual a 0.0000000001. Es un número muy pequeño que indica una precisión muy alta.
     
     Args:
-        numero (int, float): Este será el numero ingresado por el usuario
+        numero (int, float): Este será el numero ingresado por el usuario.
         tolerancia (int, float): Este valor se utilizara como limite de precisión. Default es 1e-10.
 
     Raises:
-        Si numero es negativo: ValueError: No se puede calcular la raìz cuadrada de un nùmero negativo"
+        Si numero es negativo: ValueError: No se puede calcular la raìz cuadrada de un nùmero negativo".
 
     Returns:
         float: Resultado más próximo al valor de calcular la raíz cuadrada de un número.

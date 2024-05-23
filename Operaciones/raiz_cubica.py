@@ -1,9 +1,9 @@
 def raiz_cubica(numero, tolerancia=1e-10):
     """
-    Utilizando el 'Mètodo Babilonìa o Herón'.
+    Utilizando el 'Mètodo Babilonìa o Herón'. Se calculará la raiz cúbica del numero ingresado. 
     1e-10 es una forma de notación científica que representa el número.
     1 × 10 **−10, que es igual a 0.0000000001. Es un número muy pequeño que indica una precisión muy alta.
-      
+    
     Args:
       numero (int, float): Este será el numero ingresado por el usuario.
       tolerancia (int, float): Este valor se utilizara como limite de precisión. Default es 1e-10.
