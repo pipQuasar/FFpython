@@ -18,7 +18,7 @@ def sumar(*numeros):
 
 # Ejemplo de uso
 try:
-    resultado = sumar(1,2,3,4,5) # Se ingresan los números que desées sumar
+    resultado = sumar(1,2,3,4,5)
     print(resultado)  # Salida: 15
 except ValueError as err:
     print(err)

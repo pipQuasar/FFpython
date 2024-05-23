@@ -24,7 +24,7 @@ def potenciacion(numero):
 
 #Ejemplo de uso
 try:
-    resultado = potenciacion(2.5) # Se ingresa el número a potenciar
+    resultado = potenciacion(2.5)
     print(resultado)  # Salida: Depende del exponente, en este ejemplo usaré 10 ** 2, resultado = 100
 except ValueError as err:
     print(err)  

@@ -18,7 +18,7 @@ def restar(*numeros):
 
 # Ejemplo de uso
 try:
-    resultado = restar(1,2,3,4,5) # Se ingresan los números que desées restar
+    resultado = restar(1,2,3,4,5)
     print(resultado)  # Salida: -13
 except ValueError as err:
     print(err)      
