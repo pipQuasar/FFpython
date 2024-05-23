@@ -1,6 +1,6 @@
 # FFpython: Fast Friendly Python Library
 
-FFpython es una biblioteca diseñada para hacer que Python sea aún más simple y accesible, tanto para niños y adultos como para profesionales. Ya sea que estés enseñando a estudiantes de primaria, ofreciendo talleres en escuelas, ayudando a reclusos en prisión a aprender una nueva habilidad, apoyando a adultos que desean cambiar de carrera, o simplemente buscando ahorrar tiempo como programador profesional, FFpython tiene algo para ti.
+FFpython es una biblioteca diseñada para hacer que Python sea aún más simple y accesible, tanto para niños y adultos como para profesionales. Ya sea que estés enseñando a estudiantes de primaria, ofreciendo talleres en escuelas, ayudando a reclusos en prisión a aprender una nueva habilidad, apoyando a adultos que desean cambiar de carrera, o simplemente buscando ahorrar tiempo como programador profesional, FFpython tiene algo para vos.
 
 # 📥 Instalación
 Para instalar FFpython, simplemente abre una nueva terminal y utiliza el comando pip:
