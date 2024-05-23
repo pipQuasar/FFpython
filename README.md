@@ -20,7 +20,44 @@ Funciones Disponibles:
 Operaciones Matemáticas,
 Procedimientos
 
-La descripción de cada función está dentro de si mismo, solamente hace falta entrar a la función que quieras leer y ahi estará todo.
+<h3>Operaciones Matemáticas:</h3>
+Suma
+Resta
+Multiplicación
+División
+Potenciación (exponente)
+Raíz cuadrada 
+Raíz cúbica
+Logaritmo natural (ln)
+Logaritmo base 10 (log)
+Logaritmo base 2 (log2)
+Valor absoluto
+Redondeo
+Truncamiento
+Mínimo
+Máximo
+Factorial
+Funciones trigonométricas:
+Seno
+Coseno
+Tangente
+Arcoseno
+Arcocoseno
+Arcotangente
+Funciones hiperbólicas:
+Seno hiperbólico
+Coseno hiperbólico
+Tangente hiperbólica
+Arcoseno hiperbólico
+Arcocoseno hiperbólico
+Arcotangente hiperbólica
+Números complejos:
+Parte real e imaginaria
+Módulo
+Argumento
+Conjugado
+Sumatorias y productorias
+Derivadas e integrales (en aplicaciones más avanzadas)
 
 # 🌍 Contribuir
 FFpython es un proyecto de código abierto y agradecemos todas las contribuciones. Si deseas colaborar, sigue estos pasos:
