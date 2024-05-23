@@ -36,6 +36,7 @@ Para más detalles sobre cómo contribuir, revisa nuestra Guía de Contribución
 # ❤️ Donaciones
 Si te gusta FFpython y quieres apoyar su desarrollo, considera hacer una donación:
 
+<h3>CVU/CBU: 0000003100050103906295</h3>
 
 # 📞 Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros:
