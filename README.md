@@ -21,7 +21,7 @@ Mathematical operations<br>
 Procedures
 
 Within each corresponding folder, there is a document that explains which functions are available.
-https://github.com/pipQuasar/FFpython/tree/main/Operaciones - https://github.com/pipQuasar/FFpython/tree/main/Procedimientos
+https://github.com/pipQuasar/FFpython/tree/main/Operaciones<br>https://github.com/pipQuasar/FFpython/tree/main/Procedimientos
 
 # 🌍 Contribute
 FFpython is an open source project and we welcome all contributions. If you want to collaborate, follow these steps:
