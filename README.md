@@ -1,51 +1,51 @@
 # FFpython: Fast Friendly Python Library
 
-FFpython es una biblioteca diseñada para hacer que Python sea aún más simple y accesible, tanto para niños y adultos como para profesionales. Ya sea que estés enseñando a estudiantes de primaria, ofreciendo talleres en escuelas, ayudando a reclusos en prisión a aprender una nueva habilidad, apoyando a adultos que desean cambiar de carrera, o simplemente buscando ahorrar tiempo como programador profesional, FFpython tiene algo para vos.
+FFpython is a library designed to make Python even simpler and more accessible, for children and adults as well as professionals. Whether you're teaching elementary students, offering workshops in schools, supporting adults who want to change careers, or simply looking to save time as a professional programmer, FFpython has something for you.
 
-# 📥 Instalación
-Para instalar FFpython, simplemente abre una nueva terminal y utiliza el comando pip:
+# 📥 How to install
+To install FFpython, simply open a new terminal and use the pip command:
 ```bash
 pip install ffpython
 ```
 
-# 🚀 Cómo Empezar
-Una vez que hayas instalado FFpython, puedes comenzar a usarlo de inmediato. Aquí hay un ejemplo básico de cómo implementarlo en un nuevo módulo:
+# 🚀 How to start
+Once you have installed FFpython, you can start using it right away. Here is a basic example of how to implement it in a new module:
 
 ```python
 import ffpython as ffp
 ```
 
-# 📚 Documentación
-Funciones Disponibles:
-Operaciones Matemáticas,
-Procedimientos
+# 📚 Documentation
+Available Features::<br>
+Mathematical operations<br>
+Procedures
 
-Dentro de cada carpeta correspondiente, existe un documento que te explica cuáles con las funciones disponibles.
+Within each corresponding folder, there is a document that explains which functions are available.
 https://github.com/pipQuasar/FFpython/tree/main/Operaciones - https://github.com/pipQuasar/FFpython/tree/main/Procedimientos
 
-# 🌍 Contribuir
-FFpython es un proyecto de código abierto y agradecemos todas las contribuciones. Si deseas colaborar, sigue estos pasos:
+# 🌍 Contribute
+FFpython is an open source project and we welcome all contributions. If you want to collaborate, follow these steps:
 
-Haz un fork del repositorio.
-Crea una nueva rama (git checkout -b feature/nueva-funcion).
-Realiza tus cambios y haz commit (git commit -am 'Añadir nueva función').
-Haz push a la rama (git push origin feature/nueva-funcion).
-Abre un Pull Request.
-Para más detalles sobre cómo contribuir, revisa nuestra Guía de Contribución.
+Fork the repository.
+Create a new branch (git checkout -b feature/new-function).
+Make your changes and commit (git commit -am 'Add new feature').
+Push to the branch (git push origin feature/new-function).
+Open a Pull Request.
+For more details on how to contribute, review our Contribution Guide.
 
-# ❤️ Donaciones
-Si te gusta FFpython y quieres apoyar su desarrollo, considera hacer una donación:
+# ❤️ Donations
+If you like FFpython and want to support its development, consider making a donation:
 
 <h3>CVU/CBU: 0000003100050103906295</h3>
 
-# 📞 Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros:
+# 📞 Contact
+If you have any questions or suggestions, do not hesitate to contact us:
 
 <p align="left">
 <a>Mail: mftoba@gmail.com </a>
 </p>
 
-# 🔗 Enlaces Útiles
-Repositorio: https://github.com/pipQuasar
+# 🔗 Useful Links
+Repository: https://github.com/pipQuasar
 
-¡Gracias por usar FFpython! ¡Esperamos que esta biblioteca te ayude a aprender, enseñar y programar de manera más rápida y amigable!
+Thanks for using FFpython! We hope this library helps you learn, teach and program faster and friendlier!
