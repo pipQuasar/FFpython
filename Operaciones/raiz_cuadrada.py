@@ -34,5 +34,8 @@ def raiz_cuadrada(numero, tolerancia=1e-10):
         aproximacion = nueva_aproximacion
 
 # Ejemplo de uso:
-resultado = raiz_cuadrada(100)
-print(resultado)    # Resultado esperado por aproxmación: 10
+try:
+    resultado = raiz_cuadrada(100)
+    print(resultado)    # Resultado esperado por aproxmación: 10
+except ValueError as err:
+    print(err)
