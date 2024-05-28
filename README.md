@@ -33,11 +33,6 @@ Push to the branch (git push origin feature/new-function).
 Open a Pull Request.
 For more details on how to contribute, review our Contribution Guide.
 
-# ❤️ Donations
-If you like FFpython and want to support its development, consider making a donation:
-
-<h3>CVU/CBU: 0000003100050103906295</h3>
-
 # 📞 Contact
 If you have any questions or suggestions, do not hesitate to contact us:
 
